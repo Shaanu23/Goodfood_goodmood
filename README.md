@@ -6,4 +6,4 @@ Die Nutzer sollen möglichkeit haben, durch den Such Feature auch bestimmte Reze
 Ebenfalls gibt es unter jedem Rezept noch eine Einkaufsliste, indem die Studenten die bereits vorhandenen Lebensmitteln ankreuzen/abhäckeln können
 
 ## Persona
-![Persona]("Persona 1.pdf")
+![Persona](Persona1.pdf)
